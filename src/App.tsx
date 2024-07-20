@@ -2,6 +2,8 @@ import { Grid, GridItem, Show } from '@chakra-ui/react';
 import NavBar from './components/NavBar';
 import GameGrid from './components/GameGrid';
 
+//left off on beginning of video 15
+
 function App() {
   return (
     <>
