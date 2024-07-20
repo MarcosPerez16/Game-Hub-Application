@@ -3,8 +3,6 @@ import NavBar from './components/NavBar';
 import GameGrid from './components/GameGrid';
 import GenreList from './components/GenreList';
 
-//left off on beginning of video 15
-
 function App() {
   return (
     <>
